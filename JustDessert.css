@@ -1,0 +1,150 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#top_header {
+    background-color: rgba(8, 8, 8, 0.863);
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 175px;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+.dessert {
+    color: orange;
+}
+
+.left {
+    padding-top: 15px;
+}
+
+#join, .login {
+    border: 5px solid black;
+    padding: 8px;
+    text-align: center;
+    font-size: 15px;
+}
+
+#join {
+    background-color: orange;
+} 
+
+.login {
+    background-color: blue;
+}
+
+.right {
+    margin: 15px 50px;
+}
+
+#bottom_header {
+    background-color: peachpuff;
+    height: 225px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 175px;
+}
+
+.left2 {
+    padding: 100px 35px;
+}
+
+#search {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 5px;
+    font-size: 18px;
+}
+
+.go {
+    background-color: blue;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 5px;
+    font-size: 18px;
+}
+
+.right2 {
+    display: inherit;
+    justify-content: inherit;
+    padding: 50px 75px;
+}
+
+.cake, .cookie, .ice-cream, .pie {
+    background-color: white;
+    border-radius: 50%;
+    height: 100px;
+    margin: 0 50px;
+}
+
+#recipe {
+    background-color: silver;
+    height: 660px;
+    width: 815px;
+    margin: 0 175px;
+}
+
+.top {
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px 0;
+    margin: 15px auto;
+}
+
+.orange_tart {
+    height: 450px;
+    padding: 20px 50px;
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-between;
+}
+
+.likes {
+    display: inherit;
+    padding-right: 25px;
+}
+
+.heart {
+    height: 25px;
+    margin-right: 10px;
+}
+
+.full_recipe {
+    padding-left: 325px;
+}
+
+#col {
+    margin: -650px 1100px;
+}
+
+.top2 {
+    display: flex;
+}
+
+hr {
+    width: 400px;
+}
+
+.bottom2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.likes2 {
+    display: inherit;
+    padding-left: 10px;
+}
+
+
+.macarons, .creme-brulee {
+    width: 400px;
+    margin-top: 15px;
+}
